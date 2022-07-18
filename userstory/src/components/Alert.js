@@ -27,6 +27,9 @@ return(
     }}
     onClose={() => setAnchor(null)}
     >
+    <Button >
+        X
+    </Button>
 <Typography variant='h6'>
     <h2>Notifications</h2>
     <p> <font color="grey"> _______________</font></p>

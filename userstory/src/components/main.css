@@ -55,6 +55,9 @@ main .sort-options button {
 
     cursor: pointer;
 }
+main .sort-options button:hover{
+    background-color: #ffe16a;
+}
 
 main .list-headers {
     display: flex;

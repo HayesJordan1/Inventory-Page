@@ -1,14 +1,17 @@
 import './main.css';
-import './main'
+import './main/list'
 
 function InventoryGrid2(){
 return(
   <html>
     <head>
+      <title>Hope Center</title>
       <link rel="stylesheet" href="main.css" />
     </head>
     <body>
-    <header><h1>Inventory</h1></header>
+    <header>
+      <h1>Inventory</h1>
+      </header>
     <main>
       <section class="sort-options">
         <button class="sort-name">Sort By Name</button>
